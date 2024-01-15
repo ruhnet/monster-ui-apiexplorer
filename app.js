@@ -666,7 +666,7 @@ define(function(require){
 				['list', 'id', 'menu', 'menu'],
 				['listAll', 'numbers', 'numbers', 'phoneNumber'],
 				['list', 'id', 'port', 'portRequest'],
-				['list', 'id', 'servicePlan', 'plan'],
+				//['list', 'id', 'servicePlan', 'plan'],
 				['list', 'id', 'voicemail', 'voicemail'],
 				['list', 'id', 'webhooks', 'webhook'],
 				['listNotifications', 'id', 'whitelabel', 'notification']
